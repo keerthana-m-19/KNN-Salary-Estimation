@@ -28,5 +28,20 @@ This project predicts whether an employee earns more than 50K per year using the
 - Accuracy score
 - Confusion matrix
 
+## 📊 Sample Output
+
+- Dataset Size: 32,561 records × 5 features
+- Model Accuracy: **80.40%**
+- Confusion Matrix:
+  - True Negatives: 5916
+  - False Positives: 277
+  - False Negatives: 1319
+  - True Positives: 629
+
+### Terminal Output
+![Terminal Output](outputs/terminal_output.png)
+
+
 ## Author
 Keerthana M
+
