@@ -39,9 +39,10 @@ This project predicts whether an employee earns more than 50K per year using the
   - True Positives: 629
 
 ### Terminal Output
-![Terminal Output](outputs/terminal_output.png)
+![Output](outputs/output.png)
 
 
 ## Author
 Keerthana M
+
 
